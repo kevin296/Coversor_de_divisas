@@ -5,7 +5,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int select = -1;
         int valor = 0;
-// Este es un comentario de una línea
+
         try {
             do {
                 System.out.println("Bienvenidos al conversor de Monedas");

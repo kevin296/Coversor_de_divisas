@@ -12,5 +12,7 @@ Convirtiendo de Peso argentino a Dolar
 ![image](https://github.com/kevin296/Coversor_de_divisas/assets/65751286/206bea7e-0a12-4fb6-af37-2b266ec1241b)
 
 ------------------------------------
+
+
 Ese es el funcionamiento a la hora de realizar la conversion y asi sucesivamente con los demas incisos a la hora de escoger
 cual desea convertir 

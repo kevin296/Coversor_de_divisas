@@ -8,6 +8,7 @@ Menu
 
 -----------------------------------
 Convirtiendo de Peso argentino a Dolar 
+------------------------------------
 ![image](https://github.com/kevin296/Coversor_de_divisas/assets/65751286/206bea7e-0a12-4fb6-af37-2b266ec1241b)
 
 ------------------------------------
